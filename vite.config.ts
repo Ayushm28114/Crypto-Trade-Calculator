@@ -7,6 +7,14 @@ export default defineConfig({
     outDir: 'dist',
     sourcemap: false,
     minify: 'esbuild',
+    rollupOptions: {
+      input: {
+        main: './index.html'
+      }
+    }
   },
-  base: './',
+  base: '/',
+  resolve: {
+    extensions: ['.ts', '.tsx', '.js', '.jsx']
+  }
 })
