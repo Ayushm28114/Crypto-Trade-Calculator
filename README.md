@@ -2,7 +2,7 @@
 
 A **modern, feature-rich web application** that helps users track cryptocurrency trades and calculate tax liabilities using the **FIFO (First In, First Out)** method. With **real-time prices**, **dynamic coin support**, and **beautiful UI**, it's your complete crypto trading companion.
 
-🔗 **Live App:** [https://crypto-trade-calculator.surge.sh](Crypto_Trade_Calculator)
+🔗 **Live App:** [Crypto_Trade_Calculator](https://crypto-trade-calculator.surge.sh)
 
 > ⚡ Now featuring **thousands of cryptocurrencies** with dynamic loading and enhanced UI!
 
