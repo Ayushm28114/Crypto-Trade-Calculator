@@ -2,7 +2,7 @@
 
 A **modern, feature-rich web application** that helps users track cryptocurrency trades and calculate tax liabilities using the **FIFO (First In, First Out)** method. With **real-time prices**, **dynamic coin support**, and **beautiful UI**, it's your complete crypto trading companion.
 
-🔗 **Live App:** [https://crypto-tax-calculator-d5t5.vercel.app](https://crypto-tax-calculator-d5t5.vercel.app)
+🔗 **Live App:** [https://crypto-trade-calculator.surge.sh](Crypto_Trade_Calculator)
 
 > ⚡ Now featuring **thousands of cryptocurrencies** with dynamic loading and enhanced UI!
 
@@ -452,3 +452,4 @@ If you found this project helpful:
 [⬆️ Back to Top](#-crypto-trade-calculator)
 
 </div>
+
